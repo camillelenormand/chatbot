@@ -1,0 +1,6 @@
+{
+  "stop": ["halt", "cease", "desist"],
+  "goodbye": ["farewell", "adios", "au revoir"],
+  "no thank you": ["no thanks", "I'm good", "not interested"],
+  "exit": ["quit", "close", "terminate"]
+}

@@ -16,3 +16,8 @@ gem "dotenv", "~> 2.8"
 gem "json", "~> 2.6"
 
 gem "rspec", "~> 3.12"
+
+
+gem "ruby-openai", "~> 3.7"
+
+gem "faraday", "~> 2.7"
