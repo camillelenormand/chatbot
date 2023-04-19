@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["Camille Lenormand"]
   spec.email = ["camille.lenormand02@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "Chatbot project with OpenAI"
+  spec.description = "How to build a chatbot with OpenAI"
+  spec.homepage = "https://github.com/camillelenormand/chatbot"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
